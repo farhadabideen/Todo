@@ -1,0 +1,13 @@
+npm install express
+npm install body-parser
+npm install jsonwebtoken
+npm install mongoose
+npm install cors
+npm install express-rate-limit
+npm install express-mongo-sanitize
+npm install helmet
+npm install hpp --save
+npm install xss-clean --save
+npm install dotenv --save
+npm install -g nodemon
+npm install --save-dev nodemon
